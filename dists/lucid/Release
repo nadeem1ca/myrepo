@@ -1,0 +1,20 @@
+Origin: Mircom
+Label: Mircom Github repo
+Suite: stable
+Codename: lucid
+Date: Mon, 30 Apr 2018 18:59:49 UTC
+Architectures: armel
+Components: main
+Description: Debian ARM repo hosted on github
+MD5Sum:
+ 024b90ecb71e590caadce8ab3b4acb49 407 main/binary-armel/Packages
+ 8948563ccf9f56e04d826ea9be1ff980 317 main/binary-armel/Packages.gz
+ b6d5a97a9ad44755309b21cdeaf2a2e0 139 main/binary-armel/Release
+SHA1:
+ 54c8503848e5ffbbfff2374e78861290900a0ade 407 main/binary-armel/Packages
+ 9a262f90442f0bcca1fe67b104012245d2c54a69 317 main/binary-armel/Packages.gz
+ 136f2caae4d730713265f56934bb2ba1d6bb8b6c 139 main/binary-armel/Release
+SHA256:
+ 9a4a35ae2480f2f3591ad717c1b099aaf9da45217aee44129c0bb63272797c84 407 main/binary-armel/Packages
+ 06c73fbc7d8bd997f72d86684db9761ea01973ea4f55221185e152c2cad1658e 317 main/binary-armel/Packages.gz
+ c0444af7a3f7e9e511e0a49c46c77ac59c8d82966b690b262d7ff48995693d07 139 main/binary-armel/Release

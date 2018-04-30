@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Mircom
+Label: Mircom Github repo
+Architecture: armel
+Description: Debian ARM repo hosted on github

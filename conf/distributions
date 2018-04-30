@@ -1,0 +1,7 @@
+Origin: Mircom
+Label: Mircom Github repo
+Suite: stable
+Codename: lucid
+Architectures: armel
+Components: main
+Description: Debian ARM repo hosted on github
