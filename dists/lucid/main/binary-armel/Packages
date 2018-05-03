@@ -1,13 +1,13 @@
 Package: tx3nano
-Version: 1.0-5
+Version: 1.0-6
 Architecture: armel
 Maintainer: M. Nadeem <nadeem@mircomgroup.com>
 Priority: optional
 Section: base
-Filename: pool/main/t/tx3nano/tx3nano_1.0-5_armel.deb
-Size: 3785760
-SHA256: a9028110bae97297592b1a44d5022456762913fbb90a6ba70dfab2f7a873d216
-SHA1: 8ca2df48621f83e1390cdf60751e0e24ff3fcce8
-MD5sum: 0b189db1f0042cd695d90cf322d86d6a
+Filename: pool/main/t/tx3nano/tx3nano_1.0-6_armel.deb
+Size: 3785764
+SHA256: 970c4b391340d044d5c4b1ea73e58dd9b349ecf0e3031c9d2458b9cb3625932d
+SHA1: fd89cdb25359c974929c20e2ecbb3646e7a3cc76
+MD5sum: d40204c8eb60ff1eb5ee5ec883c6b0dc
 Description: Qt5 based app for nano
 
