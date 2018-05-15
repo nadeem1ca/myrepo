@@ -2,19 +2,19 @@ Origin: Mircom
 Label: Mircom Github repo
 Suite: stable
 Codename: lucid
-Date: Tue, 15 May 2018 18:07:50 UTC
+Date: Tue, 15 May 2018 18:21:24 UTC
 Architectures: armel
 Components: main
 Description: Debian ARM repo hosted on github
 MD5Sum:
- 17e010539829f9d003f822f36133421a 398 main/binary-armel/Packages
- 0da1a6860e6c72345b6ac77c3177b77e 309 main/binary-armel/Packages.gz
+ 0481b0e7628b7083df06e01c4bbd7dc3 830 main/binary-armel/Packages
+ db54e9d9f13ed731806ac3b3bbe85cea 471 main/binary-armel/Packages.gz
  b6d5a97a9ad44755309b21cdeaf2a2e0 139 main/binary-armel/Release
 SHA1:
- c22b67c2fc789e607f8aafd7ee5f0d42cbb3934c 398 main/binary-armel/Packages
- d4d3b25ebd0c2b2af2a70b02a4b381a228ca34b4 309 main/binary-armel/Packages.gz
+ 0a66f6e265c4cabae371cb366f6a4386c47b9fe0 830 main/binary-armel/Packages
+ 8c2a937714970ff3c8ce5b82cad9b44658c02c4c 471 main/binary-armel/Packages.gz
  136f2caae4d730713265f56934bb2ba1d6bb8b6c 139 main/binary-armel/Release
 SHA256:
- a3e6501101c5dab96ed0b2d3e30667915903b9e6f006b61e8d130a0c2e414b17 398 main/binary-armel/Packages
- a67c271c1fe3c8352bc3c181c38cdf1c9e3016a5e2e4aa281ab2b791904ee03e 309 main/binary-armel/Packages.gz
+ a05e96af03210de7c9da57db857517e89a2a302053d3118994ddbb5d47d84c4b 830 main/binary-armel/Packages
+ d053b59f25560917589a9e1c0103d423473552ac1edb49511c7af63ac356c5af 471 main/binary-armel/Packages.gz
  c0444af7a3f7e9e511e0a49c46c77ac59c8d82966b690b262d7ff48995693d07 139 main/binary-armel/Release
